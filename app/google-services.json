@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831610649520",
+    "project_id": "friendlychat-7b19e",
+    "storage_bucket": "friendlychat-7b19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831610649520:android:5ea011224967df7f393475",
+        "android_client_info": {
+          "package_name": "com.jeeduniya.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831610649520-0rv34ak6o7m1mpashs686r4g6rcg73nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEK109JIdwKvLfaNmN32DLYQyBduGqvQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831610649520-0rv34ak6o7m1mpashs686r4g6rcg73nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
